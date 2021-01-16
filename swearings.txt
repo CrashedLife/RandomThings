@@ -1,0 +1,22 @@
+# This is for a discord bot to block words from the chat.
+# We dissociate ourselves from any words that are written here.
+# -------------------------------------------------------------
+nigga
+negger
+niga
+neger
+nega
+nibba
+niba
+kanacke
+kanake
+känäke
+cheat
+cheats
+skeet
+hack
+hacking
+onetap
+faggot
+fagot
+schwuchtel
